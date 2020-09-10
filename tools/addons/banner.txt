@@ -1,0 +1,5 @@
+
+
+Xattack; HOW TO START BOMBING? 
+
+python botol --tool SMS --target +8801711111111 --timeout 120 --threads 500
